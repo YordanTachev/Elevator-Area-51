@@ -1,0 +1,7 @@
+C:\Users\dta4k\Desktop\C# and TPL\Area 51 Take2\Area 51 Take2\bin\Debug\Area 51 Take2.exe.config
+C:\Users\dta4k\Desktop\C# and TPL\Area 51 Take2\Area 51 Take2\bin\Debug\Area 51 Take2.exe
+C:\Users\dta4k\Desktop\C# and TPL\Area 51 Take2\Area 51 Take2\bin\Debug\Area 51 Take2.pdb
+C:\Users\dta4k\Desktop\C# and TPL\Area 51 Take2\Area 51 Take2\obj\Debug\Area 51 Take2.csproj.AssemblyReference.cache
+C:\Users\dta4k\Desktop\C# and TPL\Area 51 Take2\Area 51 Take2\obj\Debug\Area 51 Take2.csproj.CoreCompileInputs.cache
+C:\Users\dta4k\Desktop\C# and TPL\Area 51 Take2\Area 51 Take2\obj\Debug\Area 51 Take2.exe
+C:\Users\dta4k\Desktop\C# and TPL\Area 51 Take2\Area 51 Take2\obj\Debug\Area 51 Take2.pdb
